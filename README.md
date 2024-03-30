@@ -1,1 +1,1 @@
-# token.sol
+# ERC20token
